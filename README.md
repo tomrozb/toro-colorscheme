@@ -5,7 +5,11 @@ Configured for Java and XML (Android development).
 
 
 ## Screenshot
-// TODO add screenshot
+* Java
+![Java](java.png)
+
+* XML
+![XML](xml.png)
 
 
 ## Install
